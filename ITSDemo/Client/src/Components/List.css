@@ -1,0 +1,6 @@
+/* table:hover tr {
+    background:gray;
+  }
+  table:hover tr:hover ~tr {
+    background:none;
+  } */
